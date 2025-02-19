@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there :wave:
 
-<!--
-**ChaomengOrion/ChaomengOrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :pushpin: About
 
-Here are some ideas to get you started:
+软工大一 in **`SCUT`**，初学ACM中
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaomengOrion&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChaomengOrion&&show_icons=true&theme=radical&line_height=27&v=5" alt="Chaomeng's GitHub Stats" />
+
+## :bulb: 相关语言
+
+- C#
+- C/C++
+- Python
+- Typescripts
+- Lua
+
+## :sparkles: 相关帐号
+
+|    网站    | 帐号                                                          |
+| :--------: | :------------------------------------------------------------ |
+| Codeforces | [ChaomengOrion](https://codeforces.com/profile/ChaomengOrion) |
