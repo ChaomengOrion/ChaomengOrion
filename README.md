@@ -2,7 +2,7 @@
 
 ## :pushpin: About
 
-软工大一 in **`SCUT`**，初学ACM中
+软工大二 in **`SCUT`**，游戏客户端开发+游戏逆向，ACMer
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaomengOrion&theme=radical" />
 
