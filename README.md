@@ -2,11 +2,11 @@
 
 ## :pushpin: About
 
-软工大二 in **`SCUT`**，游戏客户端开发+游戏逆向，ACMer
+软工大二 in **`SCUT`**，Unity/UE游戏客户端开发 + 游戏逆向，ACMer
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaomengOrion&theme=radical" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ChaomengOrion&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChaomengOrion&&show_icons=true&theme=radical&line_height=27&v=5" alt="Chaomeng's GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=ChaomengOrion&&show_icons=true&theme=radical&line_height=27&v=5" alt="Chaomeng's GitHub Stats" />
 
 ## :bulb: 相关语言
 
@@ -21,3 +21,8 @@
 |    网站    | 帐号                                                          |
 | :--------: | :------------------------------------------------------------ |
 | Codeforces | [ChaomengOrion](https://codeforces.com/profile/ChaomengOrion) |
+
+## 实习履历（？
+Timi J1 Studio
+Timi J3 Studio
+miHoYo
