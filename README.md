@@ -23,6 +23,6 @@
 | Codeforces | [ChaomengOrion](https://codeforces.com/profile/ChaomengOrion) |
 
 ## 实习履历（？
-Timi J1 Studio
-Timi J3 Studio
-miHoYo
+- [✓] Timi J1 Studio 
+- [✓] Timi J3 Studio  
+- [?] miHoYo
