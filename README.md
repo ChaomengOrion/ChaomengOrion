@@ -2,7 +2,7 @@
 
 ## :pushpin: About
 
-软工大二 in **`SCUT`**，啥都会点皮毛的 **Unity/UE游戏客户端开发** + **游戏逆向**，~~ACMer~~
+软工大二 in **`SCUT`**， **Unity/UE游戏客户端开发** + **游戏逆向**，~~ACMer~~
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ChaomengOrion&theme=radical" />
 
